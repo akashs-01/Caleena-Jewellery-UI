@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+}
+
+i.bi.bi-gem {
+	color: green;
+}
+
+.container-fluid {
+	margin-bottom: 50px;
+	margin-left: 80px;
+	margin-right: 0px;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+	display: block;
+}
+
+.space-1 {
+	margin-right: 3px;
+	margin-bottom: 3px;
+	padding-bottom: 3px;
+}
+
+.space-2 {
+	margin-right: 3px;
+	margin-top: 3px;
+	padding-top: 3px;
+}
+
+.space-3 {
+	margin-right: 3px;
+	margin-left: 3px;
+	margin-bottom: 3px;
+	padding-bottom: 3px;
+}
+
+.space-4 {
+	margin-right: 3px;
+	margin-left: 3px;
+	margin-top: 3px;
+	padding-top: 3px;
+}
+
+.space-5 {
+	margin-left: 3px;
+}
