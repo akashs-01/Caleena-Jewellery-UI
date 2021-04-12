@@ -17,12 +17,16 @@ img {
 	margin-right: 4px;
 	margin-bottom: 5px;
 	padding-bottom: 5px;
+	height: 280px;
+	width: 280px;
 }
 
 .space-2 {
 	margin-right: 4px;
 	margin-top: 5px;
 	padding-top: 5px;
+	height: 280px;
+	width: 280px;
 }
 
 .space-3 {
@@ -30,6 +34,8 @@ img {
 	margin-left: 4px;
 	margin-bottom: 5px;
 	padding-bottom: 5px;
+	height: 280px;
+	width: 280px;
 }
 
 .space-4 {
@@ -37,8 +43,12 @@ img {
 	margin-left: 4px;
 	margin-top: 5px;
 	padding-top: 5px;
+	height: 280px;
+	width: 280px;
 }
 
 .space-5 {
 	margin-left: 4px;
+	height: 575px;
+	width: 575px;
 }
