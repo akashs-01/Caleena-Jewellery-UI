@@ -1,0 +1,49 @@
+body, html {
+	height: 100%;
+	margin: 0;
+}
+
+#backg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
+
+i.bi.bi-gem {
+	color: green;
+}
+
+a.navbar-brand {
+	color: white;
+	font-size: 15px;
+}
+
+.navbar-nav li a{
+	color: white;
+	font-size: 15px;
+}
+
+.navbar-nav li a i{
+	color: white;
+	font-size: 20px;
+}
+
+li .badge-success {
+	position: relative;
+	left: -5px;
+}
+
+.container {
+	position: absolute;
+	color: white;
+	padding: 90px;
+}
+#line {
+	height: 50px;
+	width: 2px;
+	padding: 0px;
+	margin-right: 1px;
+	vertical-align: text-top;
+}
